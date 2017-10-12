@@ -1,1 +1,4 @@
-.idea/
+
+/.idea/
+/target/
+/RBM4j.iml
